@@ -1,5 +1,5 @@
 ## Hi there 👋
-👨‍💻 Himanshu Bhandari
+👨‍💻 I am Himanshu Bhandari
 
 "Turning data into decisions, one dataset at a time 📊"
 
