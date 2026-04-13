@@ -9,7 +9,7 @@
 🎯 Outside of data, I enjoy exploring new tech trends, designing dashboards, and continuous learning.
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Building machine learning models and data-driven solutions (projects like Real Estate Price Forecasting using ML Algorithms, Employee Absenteeism Analysis).<br><br>🤝 I’m looking to collaborate on<br>Open-source projects in Data Science, AI, and Business Analytics.<br><br>👯 I’m looking for help with<br>Enhancing deep learning and deployment (MLOps, cloud integration).<br><br>🌱 I’m currently learning<br>Advanced Machine Learning, Deep Learning, and Data Visualization tools (Power Bi) and also pursuing Specialization in Machine Learning.<br><br>💬 Ask me about<br>Python, Pandas, Scikit-Learn, Tensorflow, Machine Learning workflows, and problem-solving with data.<br><br>⚡ Fun fact<br>I love turning messy data into meaningful insights — like solving puzzles with code.
+🔭 I’m currently working on<br>Building machine learning models and data-driven solutions (projects like Real Estate Price Forecasting using ML Algorithms, Employee Absenteeism Analysis).<br><br>🤝 I’m looking to collaborate on<br>Open-source projects in Data Science, AI, and Business Analytics.<br><br>👯 I’m looking for help with<br>Enhancing deep learning and deployment (MLOps, cloud integration).<br><br>🌱 I’m currently learning<br>Advanced Machine Learning, Deep Learning, and Data Visualization tools (Power Bi) and recently completed Specialization in Machine Learning.<br><br>💬 Ask me about<br>Python, Pandas, Scikit-Learn, Tensorflow, Machine Learning workflows, and problem-solving with data.<br><br>⚡ Fun fact<br>I love turning messy data into meaningful insights — like solving puzzles with code.
 
 
 ## 🌐 Socials:
