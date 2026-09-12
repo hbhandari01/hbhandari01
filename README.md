@@ -1,5 +1,5 @@
 ## Hi there 👋
-👨‍💻 I am Himanshu Bhandari, currently working Senior Analyst.
+👨‍💻 I am Himanshu Bhandari, currently working as Senior Analyst at a reputed MNC in Pune (Maharashtra).
 
 "Turning data into decisions, one dataset at a time 📊"
 
