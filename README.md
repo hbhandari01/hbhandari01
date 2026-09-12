@@ -3,7 +3,7 @@
 
 "Turning data into decisions, one dataset at a time 📊"
 
-👋 I’m a Data Analyst Professional skilled in Python, SQL, Advanced Excel, Machine Learning, Tableau and Power BI. I love transforming raw data into meaningful insights through EDA, predictive modeling, and visualization.
+👋 I’m a Data Analyst Professional skilled in Python, SQL, Advanced Excel, Machine Learning, Tableau and Power BI and currently working at a reputed MNC as Senior Analyst. I love transforming raw data into meaningful insights through EDA, predictive modeling, and visualization.
 
 🚀 Passionate about solving real-world problems with data and growing into advanced Data Science roles.
 🎯 Outside of data, I enjoy exploring new tech trends, designing dashboards, and continuous learning.
